@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.flutter_parcel_app">
     <application android:label="flutter_parcel_app" android:name="${applicationName}" android:icon="@mipmap/ic_launcher">
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="REPLACE_WITH_YOUR_OWN_KEY"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDCo_icoajWiLzVRz0P6v7nBFebRW6i49M"/>
 
 
         <activity android:name=".MainActivity" android:exported="true" android:launchMode="singleTop" android:theme="@style/LaunchTheme" android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode" android:hardwareAccelerated="true" android:windowSoftInputMode="adjustResize">
